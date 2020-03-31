@@ -1,0 +1,27 @@
+{
+  "name": "yordi23",
+  "version": "1.0.0",
+  "description": "Jenkins_Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yordi23/Yordi23.git"
+  },
+  "author": "Yordi Ogando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yordi23/Yordi23/issues"
+  },
+  "homepage": "https://github.com/Yordi23/Yordi23#readme",
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
