@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yordi23/Yordi23.git"
+    "url": "git+https://github.com/Yordi23/Jenkins_Test.git"
   },
   "author": "Yordi Ogando",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Yordi23/Yordi23/issues"
+    "url": "https://github.com/Yordi23/Jenkins_Test/issues"
   },
-  "homepage": "https://github.com/Yordi23/Yordi23#readme",
+  "homepage": "https://github.com/Yordi23/Jenkins_Test#readme",
   "devDependencies": {
     "mocha": "^7.1.1",
     "should": "^13.2.3",
