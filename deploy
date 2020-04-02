@@ -1,5 +1,5 @@
 -#!/bin/sh     
-ssh jenkins@jenkins-virtual-machine <<EOF       
+ssh jenkins@https://018fdd3f.ngrok.io <<EOF       
  cd /Jenkins
  git pull      
  npm install --production
